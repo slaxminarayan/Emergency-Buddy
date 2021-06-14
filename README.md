@@ -14,7 +14,7 @@ This is an Android Application developed using flutter Framework with firebase f
 
 [Emergency-Buddy](https://raw.githubusercontent.com/slaxminarayan/Emergency-Buddy/main/EBuddy.apk)
 ## Screenshots
-## 1)![App Screenshot](https://github.com/slaxminarayan/Emergency-Buddy/blob/main/Screenshot/1.jpg?raw=true&size=500*500)
+## 1)![App Screenshot](https://github.com/slaxminarayan/Emergency-Buddy/blob/main/Screenshot/1.jpg?raw=true&w=800&h=600)
 ## 2) ![App Screenshot](https://github.com/slaxminarayan/Emergency-Buddy/blob/main/Screenshot/2.jpg?raw=true)
 ## 3) ![App Screenshot](https://github.com/slaxminarayan/Emergency-Buddy/blob/main/Screenshot/3.jpg?raw=true)
 ## 4) ![App Screenshot](https://github.com/slaxminarayan/Emergency-Buddy/blob/main/Screenshot/4.jpg?raw=true)
